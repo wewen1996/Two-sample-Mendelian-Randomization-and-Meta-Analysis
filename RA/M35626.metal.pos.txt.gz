@@ -1,0 +1,12 @@
+MarkerName,Allele1,Allele2,Freq1,Effect,StdErr,P-value,TotalSampleSize,PHENO
+rs2911711,a,t,0.5541,-0.0172,0.0036,1.853e-06,7364,M35626.metal.pos.txt.gz
+rs780094,t,c,0.3952,0.0189,0.0036,1.773e-07,7364,M35626.metal.pos.txt.gz
+rs2490288,t,c,0.3284,0.0163,0.0037,8.062e-06,7364,M35626.metal.pos.txt.gz
+rs4802164,a,c,0.032,-0.1367,0.0293,3.108e-06,1766,M35626.metal.pos.txt.gz
+rs780093,t,c,0.3958,0.019,0.0036,1.329e-07,7364,M35626.metal.pos.txt.gz
+rs7710231,t,c,0.7247,-0.0168,0.0038,9.634e-06,7364,M35626.metal.pos.txt.gz
+rs1260333,a,g,0.4473,0.0164,0.0036,4.932e-06,7364,M35626.metal.pos.txt.gz
+rs1493534,a,c,0.8645,0.0219,0.0048,4.966e-06,7364,M35626.metal.pos.txt.gz
+rs249619,t,c,0.5624,-0.0319,0.0072,8.87e-06,1766,M35626.metal.pos.txt.gz
+rs1260326,t,c,0.4059,0.019,0.0036,1.368e-07,7364,M35626.metal.pos.txt.gz
+rs3813782,a,g,0.1154,0.0535,0.0118,5.81e-06,1766,M35626.metal.pos.txt.gz
